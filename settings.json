@@ -1,0 +1,10 @@
+{
+    "maximum_matplotlib_threads":false,
+    "days_count_in_meanslice":4,
+    "dataset":"T2M",
+    "latitude":"lat",
+    "longitude":"lon",
+    "time":"time"
+}
+
+

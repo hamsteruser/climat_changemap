@@ -1,0 +1,8 @@
+*.nc4
+__pycache__
+*.pyc
+*.bin
+*.pickle
+*.h5
+*checkpoint*
+*.nc
