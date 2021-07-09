@@ -1,2 +1,2 @@
 # climat_changemap
-Leaflet based climat changemap
+Leaflet and merra-2 based climat changemap
